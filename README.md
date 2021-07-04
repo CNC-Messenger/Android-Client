@@ -1,2 +1,2 @@
 # Android-Client
-Android Client for CNC Messenging Service
+Android Client for CNC Messaging Service
